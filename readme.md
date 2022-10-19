@@ -31,7 +31,7 @@ $ python hello.py
  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 ```
 You should have somethin like this if you follow the link in the terminal
-![alt text](pictures\simplestApp.JPG "Simple Flask app results")
+![Alt text](pictures\simplestApp.JPG "Simple Flask app results")
 
 You can also add to it and modify it to obtain my results wich is a joke generator 
 
@@ -49,7 +49,7 @@ $ python hello.py
 after following the link you need to add http://127.0.0.1:5000/hello/namehere/
 
 and you can obtain the following 
-![alt text](pictures\jokegenerator.JPG "results")
+![Alt text](pictures\jokegenerator.JPG "results")
 
 a quick explanation of the code 
 
